@@ -1,0 +1,6 @@
+com\jnshu\taskone\service\UserService.class
+com\jnshu\taskone\serviceImpl\UserServiceImpl.class
+com\jnshu\taskone\dao\UserDao.class
+com\jnshu\taskone\client\Client.class
+com\jnshu\taskone\tools\TimeTransition.class
+com\jnshu\taskone\model\User.class
